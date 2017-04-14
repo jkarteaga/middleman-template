@@ -35,3 +35,4 @@ gem 'execjs'
 # gem 'puma'
 # gem 'foreman'
 # gem 'heroku_san'
+gem "middleman-blog"
